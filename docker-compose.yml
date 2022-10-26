@@ -1,0 +1,14 @@
+# services:
+#    api:
+#       build: 
+#         context: ./wobot_project
+#         dockerfile: Dockerfile
+#       image: django-api-img:1.0.0
+#       ports:
+#         - "8000:8000"
+#       volumes:
+#         - ./wobot_project:/app
+      
+#       environment:
+          
+
